@@ -3,24 +3,24 @@ html {
     background-size: 5em;
 }
 
-/*.main {*/
+.main {
 /*    background-image: url("http://i328.photobucket.com/albums/l326/magiky13/archilogo_zps7qwdprsj.png");*/
 /*    background-size: 9em;*/
 /*    background-repeat: no-repeat;*/
 /*    background-attachment: fixed;*/
-/*    background-position: center; */
+    background-position: center;
 /*    font-family: 'Open Sans';*/
 /*    font-weight: lighter;*/
-/*    height: 13em;*/
-/*    width: 10em;*/
+    height: 30em;
+    width: 20em;
 /*    background-color: #ffffff;*/
-/*    position: absolute;*/
-/*    right: 0;*/
-/*    left: 0;*/
-/*    margin-right: auto;*/
-/*    margin-left: auto;*/
-/*    margin-top: auto;*/
-/*    margin-bottom: auto;*/
-/*    top: 0;*/
-/*    bottom: 0;*/
-/*}*/
+    position: absolute;
+    right: 0;
+    left: 0;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: auto;
+    margin-bottom: auto;
+    top: 0;
+    bottom: 0;
+}
