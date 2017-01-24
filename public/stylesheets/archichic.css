@@ -1,10 +1,10 @@
 html {
     background-image: url("http://i328.photobucket.com/albums/l326/magiky13/landland_zpsb8bm4eko.jpg");
-    background-size: 5em;
+    background-repeat: no-repeat;
+    background-size: 10em;
 }
 
 .main {
-    background-repeat: no-repeat;
     background-position: center;
     height: 30em;
     width: 20em;
