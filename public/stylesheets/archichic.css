@@ -1,19 +1,13 @@
 html {
-    background-image: url("http://i328.photobucket.com/albums/l326/magiky13/archilogochien_zpsxtfljxri.png");
+    background-image: url("http://i328.photobucket.com/albums/l326/magiky13/landland_zpsb8bm4eko.jpg");
     background-size: 5em;
 }
 
 .main {
-/*    background-image: url("http://i328.photobucket.com/albums/l326/magiky13/archilogo_zps7qwdprsj.png");*/
-/*    background-size: 9em;*/
-/*    background-repeat: no-repeat;*/
-/*    background-attachment: fixed;*/
+    background-repeat: no-repeat;
     background-position: center;
-/*    font-family: 'Open Sans';*/
-/*    font-weight: lighter;*/
     height: 30em;
     width: 20em;
-/*    background-color: #ffffff;*/
     position: absolute;
     right: 0;
     left: 0;
