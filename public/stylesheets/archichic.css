@@ -2,26 +2,30 @@ html {
     background-image: url("http://i328.photobucket.com/albums/l326/magiky13/landland_zpsb8bm4eko.jpg");
     background-repeat: no-repeat;
     background-size: 20em;
+    background-position: center;
     background-attachment: fixed;
-    background-position: center;
 }
 
-.main {
-    background-position: center;
-    height: 30em;
-    width: 30em;
-    position: absolute;
-    right: 0;
-    left: 0;
-    margin-right: auto;
-    margin-left: auto;
-    margin-top: auto;
-    margin-bottom: auto;
-    top: 0;
-    bottom: 0;
-    color: #C5C5C5 
+#big > a {
+  top: 27em;
+  left: 37em;
+  background-color: transparent;
+  position: absolute;
+  font-family: open sans;
+  font-style: normal;
+  text-decoration: none;
+  color: rgb(116, 116, 116);
 }
 
-a:hover {
-    color: #000000 
+
+#logo {
+  text-align: center;
+  display: inline-block;
+  bottom: 2em;
+  position: absolute;
+}
+
+img {
+  margin-left: 1.5em;
+  margin-right: 1.5em;
 }
