@@ -19,4 +19,9 @@ html {
     margin-bottom: auto;
     top: 0;
     bottom: 0;
+    color: #C5C5C5 
+}
+
+a:hover {
+    color: #000000 
 }
