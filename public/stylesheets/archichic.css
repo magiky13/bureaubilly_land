@@ -7,14 +7,13 @@ html {
 }
 
 #big > a {
-  top: 10em;
-  left: 30em;
+  text-align: center;
   background-color: transparent;
   position: absolute;
   font-family: open sans;
   font-style: normal;
   text-decoration: none;
-  color: rgb(116, 116, 116);
+  color: rgb(45, 45, 45);
 }
 
 
