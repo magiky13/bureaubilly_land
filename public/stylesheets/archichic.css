@@ -6,7 +6,7 @@ html {
     background-attachment: fixed;
 }
 
-#big > a {
+#big {
   text-align: center;
   background-color: transparent;
   position: absolute;
