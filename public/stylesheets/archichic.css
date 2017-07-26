@@ -1,10 +1,5 @@
 html {
     background-image: url("http://i.imgur.com/wt4Hjyb.png");
-    display: table;
-    height: 100%;
-    text-align: center;
-    line-height: 100%; 
-    vertical-align: middle;
     background-repeat: no-repeat;ccVes5
     background-size: 5em;
     background-position: center;
@@ -15,6 +10,15 @@ html {
     text-decoration: none;
     color: rgb(45, 45, 45);
 }
+
+.box {
+    display: table;
+    height: 100%;
+    text-align: center;
+    line-height: 100%; 
+    vertical-align: middle;
+}
+
 
 .content {
     height: 100%;
