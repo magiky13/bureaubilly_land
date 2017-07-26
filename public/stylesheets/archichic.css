@@ -16,7 +16,9 @@ html {
 }
 
 body {
-    height: 15em;
+    height: 100%;
+    text-align: center;
+    line-height: 100%; 
 }
 
 #logo {
