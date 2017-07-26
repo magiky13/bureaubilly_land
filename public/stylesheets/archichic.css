@@ -1,24 +1,16 @@
 html {
     background-image: url("http://i.imgur.com/wt4Hjyb.png");
+    text-align: center;
     background-repeat: no-repeat;ccVes5
     background-size: 5em;
     background-position: center;
     background-attachment: fixed;
+    font-family: "Open Sans", sans-serif;
+    font-weight: 600;
+    font-style: normal;
+    text-decoration: none;
+    color: rgb(45, 45, 45);
 }
-
-#big {
-  text-align: center;
-  height: 100%;
-  width: 100;
-  background-color: transparent;
-  position: absolute;
-  font-family: "Open Sans", sans-serif;
-  font-weight: 600;
-  font-style: normal;
-  text-decoration: none;
-  color: rgb(45, 45, 45);
-}
-
 
 #logo {
   text-align: center;
