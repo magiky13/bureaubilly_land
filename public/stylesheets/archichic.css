@@ -15,6 +15,10 @@ html {
     color: rgb(45, 45, 45);
 }
 
+body {
+    height: 15em;
+}
+
 #logo {
   text-align: center;
   display: inline-block;
