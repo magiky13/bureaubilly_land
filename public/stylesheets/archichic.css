@@ -2,6 +2,7 @@ html {
     background-image: url("http://i.imgur.com/wt4Hjyb.png");
     background-repeat: no-repeat;ccVes5
     background-size: 5em;
+    text-align: center;
     background-position: center;
     background-attachment: fixed;
     font-family: "Open Sans", sans-serif;
@@ -9,22 +10,6 @@ html {
     font-style: normal;
     text-decoration: none;
     color: rgb(45, 45, 45);
-}
-
-.box {
-    display: table;
-    height: 100%;
-    text-align: center;
-    line-height: 100%; 
-    vertical-align: middle;
-}
-
-
-.content {
-    height: 100%;
-    display: table-cell;
-    text-align: center;
-    vertical-align: middle;
 }
 
 #logo {
